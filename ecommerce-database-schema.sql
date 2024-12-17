@@ -12,6 +12,12 @@ CREATE TABLE user (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+
+
+
+
+
+
 -- Address Table
 CREATE TABLE address (
     add_id INT PRIMARY KEY AUTO_INCREMENT,
